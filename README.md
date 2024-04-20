@@ -4,4 +4,8 @@ Nombre: Melina Abril Gomez Torres
 
 Legajo: 63211
 
-Actividad: Realizar dos test referidos a funciones recursivas con respecto a factoriales y la sucesión fibonacci.
+Actividad 1: Realizar dos test referidos a funciones recursivas con respecto a factoriales y la sucesión fibonacci.
+
+Actividad 2: Construir una funcion que permita recibir los nombres y apellidos de una persona, para verificar si se encuentra en la base de datos. La
+función debería retornar el "id" o la key del diccionario que contiene a una persona con todos los nombres y apellidos pasados como
+parametros a la funcion buscar_datos()
